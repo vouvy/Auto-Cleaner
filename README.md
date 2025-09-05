@@ -1,6 +1,4 @@
-# DelShop
-
-**This program was made for a client.**
+# This program was made for a client
 
 It is designed as a simple, safe, and automated folder cleaner for Windows 10 and 11. The focus is on reliability, security, and ease of use. You run it once, configure it, and let it handle the cleanup work.
 
